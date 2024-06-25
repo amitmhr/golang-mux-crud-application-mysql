@@ -1,2 +1,8 @@
-# golang-mux-crud-application-mysql
-A simple example of Create, Read, Update and Delete operations using Golnag and MySQL.
+    # Golang Application using MUX and MySQL
+
+    <details>
+        <summary><b>Folder Structure</b></summary>
+        ## Config
+        ### Routes
+        #### Views
+    </details>
